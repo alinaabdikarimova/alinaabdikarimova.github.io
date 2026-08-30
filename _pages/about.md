@@ -56,10 +56,10 @@ Research Experience {#research-experience}
 Publications {#publications}
 ======
 
-<article>
-  <h3 style="margin-bottom: 0.35rem;">
-    <a href="https://arxiv.org/abs/2505.21232" target="_blank" rel="noopener noreferrer">Solving a Linear Program via a Single Unconstrained Minimization</a>
-  </h3>
-  <p style="margin: 0 0 0.35rem;">Adilet Otemissov and <strong>Alina Abdikarimova</strong></p>
-  <p style="margin: 0;"><em>Preprint, 2025.</em></p>
-</article>
+<ol style="padding-left: 1.6rem; margin-top: 0.5rem;">
+  <li style="padding-left: 0.35rem; margin-bottom: 0.75rem;">
+    Adilet Otemissov and <strong>Alina Abdikarimova</strong>.
+    “<a href="https://arxiv.org/abs/2505.21232" target="_blank" rel="noopener noreferrer">Solving a Linear Program via a Single Unconstrained Minimization</a>.”
+    <em>arXiv preprint arXiv:2505.21232</em>, 2025.
+  </li>
+</ol>
