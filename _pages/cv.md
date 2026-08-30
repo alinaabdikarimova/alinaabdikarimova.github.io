@@ -1,45 +1,16 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+My current academic CV is available as a PDF.
 
-Education
-======
+[Download CV (PDF)]({{ '/files/cv.pdf' | relative_url }}){: .btn .btn--primary }
 
-**M.S. in Applied Mathematics**<br>
-King Abdullah University of Science and Technology (KAUST)<br>
-Dates: *to be added*
-
-Research interests
-======
-
-- Optimization for machine learning
-- Adaptive gradient methods
-- Preconditioned first-order methods
-- Stochastic optimization
-- Matrix optimization
-
-Research experience
-======
-
-Details of research projects, supervisors, and dates will be added here.
-
-Publications
-======
-
-Publication details will be added as manuscripts and preprints become publicly available.
-
-Skills and service
-======
-
-Technical skills, academic service, awards, and leadership activities will be added here.
-
-<!-- Add a PDF to files/cv.pdf, then uncomment this line:
-[Download CV (PDF)]({{ base_path }}/files/cv.pdf){: .btn .btn--primary }
--->
+<object data="{{ '/files/cv.pdf' | relative_url }}" type="application/pdf" width="100%" height="900" aria-label="Curriculum vitae of Alina Abdikarimova">
+  <p>Your browser cannot display the embedded PDF. <a href="{{ '/files/cv.pdf' | relative_url }}">Download the CV</a> instead.</p>
+</object>
