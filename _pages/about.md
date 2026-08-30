@@ -59,6 +59,5 @@ Publications {#publications}
     <a href="https://arxiv.org/abs/2505.21232" target="_blank" rel="noopener noreferrer">Solving a Linear Program via a Single Unconstrained Minimization</a>
   </h3>
   <p style="margin: 0 0 0.35rem;">Adilet Otemissov and <strong>Alina Abdikarimova</strong></p>
-  <p style="margin: 0 0 0.8rem;"><em>Preprint, 2025.</em></p>
-  <a href="https://arxiv.org/abs/2505.21232" class="btn btn--primary" target="_blank" rel="noopener noreferrer">View on arXiv</a>
+  <p style="margin: 0;"><em>Preprint, 2025.</em></p>
 </article>
