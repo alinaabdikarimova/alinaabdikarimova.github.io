@@ -19,16 +19,14 @@ Education {#education}
 ### King Abdullah University of Science and Technology (KAUST)
 
 **M.S. in Applied Mathematics and Computational Science, Data Science Track**<br>
-*August 2025 – Present · Thuwal, Saudi Arabia*
-
+*August 2025 – Present · Thuwal, Saudi Arabia*<br>
 Advisor: Prof. Peter Richtárik, Optimization and Machine Learning Lab<br>
 GPA: 3.81/4.00
 
 ### Nazarbayev University
 
 **B.S. in Mathematics**<br>
-*August 2021 – June 2025 · Astana, Kazakhstan*
-
+*August 2021 – June 2025 · Astana, Kazakhstan*<br>
 Dean's List recognition for four semesters · GPA: 3.71/4.00<br>
 Capstone: *Coordinate Descent for Solving Linear Programs*<br>
 Advisor: Prof. Adilet Otemissov
