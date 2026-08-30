@@ -15,8 +15,8 @@ name                     : &name "Alina Abdikarimova"
 description              : &description "Academic website of Alina Abdikarimova, an M.S. student in Applied Mathematics at KAUST."
 url                      : "https://alinaabdikarimova.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/abdikarimova.github.io" # Set to "" if renamed to alinaabdikarimova.github.io
-repository               : "alinaabdikarimova/abdikarimova.github.io"
+baseurl                  : ""
+repository               : "alinaabdikarimova/alinaabdikarimova.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
