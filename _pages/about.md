@@ -28,7 +28,7 @@ GPA: 3.81/4.00
 **B.S. in Mathematics**<br>
 *August 2021 – June 2025 · Astana, Kazakhstan*<br>
 Dean's List recognition for four semesters · GPA: 3.71/4.00<br>
-Capstone: *Coordinate Descent for Solving Linear Programs*<br>
+Capstone: [*Coordinate Descent for Solving Linear Programs*](https://nur.nu.edu.kz/server/api/core/bitstreams/638feabb-fd7f-41bd-ae7b-ba6cb42ae859/content)<br>
 Advisor: Prof. Adilet Otemissov
 
 Research Experience {#research-experience}
