@@ -20,4 +20,4 @@ Research interests
 - Stochastic optimization
 - Matrix optimization
 
-I am building this page as a concise record of my research, publications, and academic experience. Please see the [Research]({{ '/research/' | relative_url }}), [Publications]({{ '/publications/' | relative_url }}), and [CV]({{ '/cv/' | relative_url }}) pages for more information.
+I am building this page as a concise record of my research, publications, and academic experience. Please see the [Publications]({{ '/publications/' | relative_url }}) and [CV]({{ '/cv/' | relative_url }}) pages for more information.
