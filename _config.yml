@@ -23,10 +23,10 @@ repository               : "alinaabdikarimova/alinaabdikarimova.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-placeholder.svg"
+  avatar           : "profile-photo.png"
   name             : "Alina Abdikarimova"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. student in Applied Mathematics working at the intersection of optimization and machine learning."
+  bio              : "M.S. student in Applied Mathematics and Computational Science at KAUST."
   location         : "KAUST, Saudi Arabia"
   employer         : "King Abdullah University of Science and Technology (KAUST)"
   uri              : # URL
