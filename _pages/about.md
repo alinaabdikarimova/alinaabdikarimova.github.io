@@ -9,9 +9,9 @@ redirect_from:
 
 <span id="about"></span>
 
-I am an M.S. student in Applied Mathematics and Computational Science at KAUST, advised by [Prof. Peter Richtárik](https://richtarik.org/). My research focuses on optimization for machine learning.
+I am an M.S. student in Applied Mathematics and Computational Science at KAUST, advised by Prof. [Peter Richtárik](https://richtarik.org/). My research focuses on optimization for machine learning.
 
-Previously, I studied Mathematics at Nazarbayev University, where I worked on numerical methods for linear programming with [Prof. Adilet Otemissov](https://research.nu.edu.kz/en/persons/adilet-otemissov/).
+Previously, I studied Mathematics at Nazarbayev University, where I worked on numerical methods for linear programming with Prof. [Adilet Otemissov](https://research.nu.edu.kz/en/persons/adilet-otemissov/).
 
 Education {#education}
 ======
@@ -40,7 +40,7 @@ Research Experience {#research-experience}
 
 *June 2026 – August 2026 · Saarbrücken, Germany*
 
-- Conducted research on adaptive optimization methods for machine learning under the supervision of [Prof. Sebastian Stich](https://www.sstich.ch/) and [Dr. Slavomír Hanzely](https://sites.google.com/view/slavomirhanzely).
+- Conducted research on adaptive optimization methods for machine learning under the supervision of Prof. [Sebastian Stich](https://www.sstich.ch/) and Dr. [Slavomír Hanzely](https://sites.google.com/view/slavomirhanzely).
 - Studied Shampoo and related matrix-preconditioned gradient methods, with emphasis on how adaptive preconditioning uses gradient structure to improve optimization.
 
 ### Undergraduate Research Assistant — Nazarbayev University
