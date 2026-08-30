@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-My current academic CV is available as a PDF.
-
 [Download CV (PDF)]({{ '/files/cv.pdf' | relative_url }}){: .btn .btn--primary }
 
 <object data="{{ '/files/cv.pdf' | relative_url }}" type="application/pdf" width="100%" height="900" aria-label="Curriculum vitae of Alina Abdikarimova">

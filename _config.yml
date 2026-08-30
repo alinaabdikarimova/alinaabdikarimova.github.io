@@ -26,9 +26,9 @@ author:
   avatar           : "profile-photo.png"
   name             : "Alina Abdikarimova"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. student in Applied Mathematics and Computational Science at KAUST."
+  bio              : "M.S. Student in Applied Mathematics and Computational Science"
   location         : "KAUST, Saudi Arabia"
-  employer         : "King Abdullah University of Science and Technology (KAUST)"
+  employer         :
   uri              : # URL
   email            : # Add your preferred academic email
 
