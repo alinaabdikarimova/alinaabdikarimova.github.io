@@ -34,20 +34,24 @@ Advisor: Prof. Adilet Otemissov
 Research Experience {#research-experience}
 ======
 
-### Summer Research Intern — CISPA Helmholtz Center for Information Security
+<section style="margin-bottom: 1.5rem;">
+  <h3 style="margin-bottom: 0.25rem;">Summer Research Intern — CISPA Helmholtz Center for Information Security</h3>
+  <p style="margin: 0 0 0.35rem;"><em>June 2026 – August 2026 · Saarbrücken, Germany</em></p>
+  <ul style="margin-top: 0; margin-bottom: 0;">
+    <li>Conducted research on adaptive optimization methods for machine learning under the supervision of Prof. <a href="https://www.sstich.ch/">Sebastian Stich</a> and Dr. <a href="https://sites.google.com/view/slavomirhanzely">Slavomír Hanzely</a>.</li>
+    <li>Studied Shampoo and related matrix-preconditioned gradient methods, with emphasis on how adaptive preconditioning uses gradient structure to improve optimization.</li>
+  </ul>
+</section>
 
-*June 2026 – August 2026 · Saarbrücken, Germany*
-
-- Conducted research on adaptive optimization methods for machine learning under the supervision of Prof. [Sebastian Stich](https://www.sstich.ch/) and Dr. [Slavomír Hanzely](https://sites.google.com/view/slavomirhanzely).
-- Studied Shampoo and related matrix-preconditioned gradient methods, with emphasis on how adaptive preconditioning uses gradient structure to improve optimization.
-
-### Undergraduate Research Assistant — Nazarbayev University
-
-*September 2023 – June 2025 · Astana, Kazakhstan*
-
-- Conducted research in linear programming under the supervision of Prof. Adilet Otemissov.
-- Studied interior-point methods, coordinate descent, randomized numerical linear algebra, matrix sketching, and iterative solvers for large-scale linear programs.
-- Conducted numerical experiments for an unconstrained merit-function approach, analyzed accuracy and convergence across problem dimensions, and produced the plots and numerical results reported in the resulting preprint.
+<section style="margin-bottom: 1.5rem;">
+  <h3 style="margin-bottom: 0.25rem;">Undergraduate Research Assistant — Nazarbayev University</h3>
+  <p style="margin: 0 0 0.35rem;"><em>September 2023 – June 2025 · Astana, Kazakhstan</em></p>
+  <ul style="margin-top: 0; margin-bottom: 0;">
+    <li>Conducted research in linear programming under the supervision of Prof. Adilet Otemissov.</li>
+    <li>Studied interior-point methods, coordinate descent, randomized numerical linear algebra, matrix sketching, and iterative solvers for large-scale linear programs.</li>
+    <li>Conducted numerical experiments for an unconstrained merit-function approach, analyzed accuracy and convergence across problem dimensions, and produced the plots and numerical results reported in the resulting preprint.</li>
+  </ul>
+</section>
 
 Publications {#publications}
 ======
