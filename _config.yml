@@ -30,12 +30,12 @@ author:
   location         : "KAUST, Saudi Arabia"
   employer         :
   uri              : # URL
-  email            : # Add your preferred academic email
+  email            : "alinatanatqyzy@gmail.com" # Add your preferred academic email
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # Add your Google Scholar profile URL
+  googlescholar    : "https://scholar.google.com/citations?user=rHt12msAAAAJ" # Add your Google Scholar profile URL
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # Add your ORCID URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "alina-abdikarimova" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
