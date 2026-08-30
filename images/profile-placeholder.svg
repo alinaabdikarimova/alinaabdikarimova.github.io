@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder for Alina Abdikarimova</title>
+  <desc id="desc">A simple circular monogram with the initials AA.</desc>
+  <rect width="400" height="400" fill="#f2f4f6"/>
+  <circle cx="200" cy="200" r="156" fill="#355c7d"/>
+  <text x="200" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="600" fill="#ffffff">AA</text>
+</svg>
